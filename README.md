@@ -21,3 +21,7 @@ The text is freely provided by the ISV Foundation website: <a href="https://isv.
 # Integration into Unique Bible App
 
 Read https://github.com/eliranwong/UniqueBible/wiki/Verse-by-verse-MP3-Bible-audio
+
+# Online Demonstration
+
+https://bible.gospelchurch.uk/index.html?cmd=.audio
